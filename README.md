@@ -8,11 +8,11 @@ composer create-project laravel/laravel:9.* api
 composer create-project laravel/laravel:10.* api
 
 cd api
-
+```
 wget https://ribamar.net.br/down/laravel/commands/crud-gen-api.zip
-
+```bash
 unzip crud-gen-api.zip
-
+```
 Exemplo de CRUD
 ```bash
 php artisan crud:api products name,price
