@@ -25,3 +25,8 @@ php artisan serve
 
 http://127.0.0.1:8000/api/products
 ```
+## Tutorial para API no Laravel 11
+Como este gerador não suporta a versão 11 do Laravel
+Segue um tutorial para essa versão
+
+https://www.binaryboxtuts.com/php-tutorials/laravel-tutorials/how-to-make-laravel-11-rest-api/ 
